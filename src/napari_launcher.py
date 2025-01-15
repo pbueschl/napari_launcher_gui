@@ -1,0 +1,1 @@
+../../src/napari_launcher.py
